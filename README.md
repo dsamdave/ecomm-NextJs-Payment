@@ -1,1 +1,1 @@
-Modern ECommerce Application with NextJs + Stripe + Sanity
+ECommerce Application with NextJs + Stripe 
